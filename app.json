@@ -1,0 +1,16 @@
+{
+  "name": "VLE_009",
+  "description": "VLE_009",
+  "keywords": [
+    "vless"
+  ],
+  "env": {
+    "UUID": {
+      "description": "AUUID",
+      "value": ""
+    }
+  },
+  "website": "https://github.com/JohGeorge/",
+  "repository": "",
+  "stack": "container"
+}
